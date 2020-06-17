@@ -6,6 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.javainuse.model.Employee;
 
+// controller class. 
 @RestController
 public class TestController {
 
